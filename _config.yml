@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.03239587
+  lightness: 0.7195531
+  brandStrength: 0.1468675
+  brandColors:
+    - '#E4E7E0'
+    - '#714880'
+    - '#5C1A64'
+    - '#8983A7'
+    - '#8FBAC0'
+  rhythmicContrast: 0.5045491
+typography_spectrum: 0.311828
+name: 'Muggins '
